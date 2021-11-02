@@ -1,0 +1,11 @@
+com\openpayd\currency\model\request\ConversionAmountRequest.class
+com\openpayd\currency\model\ApiError.class
+com\openpayd\currency\model\dto\TransactionHistoryDto$Builder.class
+com\openpayd\currency\model\dto\CalculatedExchangeRateDto.class
+com\openpayd\currency\model\dto\CalculatedExchangeRateDto$Builder.class
+com\openpayd\currency\model\dto\ExchangeRateCalculationDto$Builder.class
+com\openpayd\currency\model\dto\ExchangeRateCalculationDto.class
+com\openpayd\currency\model\response\ExchangeRateResponse.class
+com\openpayd\currency\model\response\ConversionRateResponse$Builder.class
+com\openpayd\currency\model\response\ConversionRateResponse.class
+com\openpayd\currency\model\dto\TransactionHistoryDto.class
